@@ -1,4 +1,21 @@
+body {
+    font-size: 18px;
+}
 
+div {
+    padding: 30px;
+}
+
+
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Poppins', sans-serif;
+}
+.free-button {
+    float: right;
+    padding: 10px 50px;
+    font-family: 'Open Sans', sans-serif;
+}
 
 .attribution {
       font-size: 11px;
